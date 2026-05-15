@@ -1,4 +1,4 @@
-# 
+# Get the ultimate ftx trading bot with automatic ftx trading bot Strategy | slippage-control + backtesting. Featuring slippage-control and backtesting, it's the best choice for
 
 
 
